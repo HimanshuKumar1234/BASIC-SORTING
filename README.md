@@ -1,1 +1,2 @@
-# BASIC-SORTING
+# BASIC-SORTIN
+Bubble , Selection , Insertion Sort
