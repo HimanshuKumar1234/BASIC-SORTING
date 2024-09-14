@@ -1,4 +1,6 @@
 # BASIC-SORTIN
 Bubble , Selection , Insertion Sort
-# Teacher & Batch
-Raghav Garg , Paryas
+# Teacher 
+Raghav Garg 
+# Batch 
+PRAYAS
